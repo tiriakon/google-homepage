@@ -8,6 +8,7 @@ body{
 }
 .topnav{
     float: right;
+    margin-top: -45px;
 }
 .navtext {
     color:rgba(0, 0, 0, 0.87);
@@ -140,7 +141,8 @@ footer{
     font-family: arial,sans-serif;
     line-height: 40px;
     font-size: 14px;
-    margin-left: 30px; 
+    margin-left: 30px;
+    text-decoration: none;
     }
 #pts{
     float: right;
